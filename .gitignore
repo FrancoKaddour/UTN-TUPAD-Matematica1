@@ -1,0 +1,21 @@
+# Entorno virtual de Python
+.venv/
+venv/
+env/
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Claude Code
+.claude/
+memory/
+
+# VS Code
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
