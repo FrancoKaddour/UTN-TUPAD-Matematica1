@@ -54,8 +54,6 @@ Requiere Python 3.7 o superior. No necesita librerías externas.
 ```
 TP_Proposiciones_Compuestas/
 ├── clasificador_proposiciones.py   # Código fuente
-├── PDF1_Descripcion_y_Ejercicio.txt
-├── PDF3_Iteraciones_IA.txt
 └── README.md
 ```
 
@@ -68,15 +66,3 @@ TP_Proposiciones_Compuestas/
 - Precedencia de operadores lógicos
 - Equivalencia lógica: `p → q` ≡ `¬p ∨ q`
 - Clasificación: tautología, contradicción, contingencia
-
----
-
-## Uso de Inteligencia Artificial
-
-El proyecto fue desarrollado con apoyo de tres herramientas de IA con roles diferenciados:
-
-- **Gemini** — generación de ideas y diseño del proyecto
-- **ChatGPT** — comprensión y profundización de conceptos matemáticos  
-- **Claude** — desarrollo y revisión del código
-
-Cada sugerencia fue validada y adaptada al nivel del curso antes de ser implementada.
