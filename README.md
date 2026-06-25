@@ -6,7 +6,7 @@ Repositorio académico de la materia **Matemática I** — Universidad Tecnológ
 
 ```
 UTN-TUPAD-Matematica1/
-└── Integrador/
+└── Integradores/
     ├── Integrador I/
     │   ├── Proposiciones Compuestas/
     │   ├── Código.pdf
@@ -23,8 +23,8 @@ UTN-TUPAD-Matematica1/
 
 | Módulo | Descripción |
 |--------|-------------|
-| [Integrador I](Integrador/Integrador%20I/) | Lógica proposicional — clasificador de proposiciones compuestas |
-| [Integrador II](Integrador/Integrador%20II/) | Conjuntos — diagramas de Venn y álgebra de conjuntos |
+| [Integrador I](Integradores/Integrador%20I/) | Lógica proposicional — clasificador de proposiciones compuestas |
+| [Integrador II](Integradores/Integrador%20II/) | Conjuntos — diagramas de Venn y álgebra de conjuntos |
 
 ## Autor
 
